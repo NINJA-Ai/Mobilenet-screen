@@ -1,0 +1,62 @@
+#redblue
+{
+color: blue;
+    font-size: 40px;
+}
+#blue
+{
+    width: 100px;
+    height: 100px;
+}
+#blub
+{
+    width: 100px;
+    height: 100px;
+    
+}
+#camera,#result
+{
+    border: 2px solid cyan;
+    width: 300;
+    height: 300;
+    box-shadow: 3px 3px 25px cyan;
+}
+.main_div
+{
+background-color: blueviolet;
+padding: 10px;
+margin-top: 15px;
+border: 3px dotted lightblue;
+}
+.footer_div h4
+{
+    background-color: lightblue;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 3px 3px 100px purple;
+}
+#webcam
+{
+    font-size: 20px;
+    color:blue;
+}
+#snapshot
+{
+    font-size: 20px;
+    color: purple;
+}
+.main_div button
+{
+    width: 290px;
+    box-shadow: 3px 3px 25px;
+    border: 1.50px solid;
+}
+.copy_right_footer
+{
+    background-color: powderblue;
+    color: blue;
+    position: fixed;
+    width: 100%;
+    bottom:0;
+text-align: center;
+}
